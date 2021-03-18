@@ -1,0 +1,9 @@
+name: lkCash
+version: 1.0-SNAPSHOT
+main: com.developer.lk.cash.Main
+authors: [lkAugusto]
+description: Este plugin é apenas um teste.
+website: www.lkaugusto.com.br
+
+commands:
+  cash:
